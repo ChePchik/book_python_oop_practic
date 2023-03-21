@@ -1,1 +1,5 @@
-# book_python_oop_practic
+Адаптированные практические задания для python
+
+[code.mu](https://code.mu/ru/javascript/book/oop/)
+
+Остановился на 18
